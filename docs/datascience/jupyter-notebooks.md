@@ -190,11 +190,11 @@ To toggle line numbering for the entire notebook, use `kbstyle(Shift+L)` when in
 
 ![Line numbers enabled for notebook](images/jupyter/notebook-toggle-line-num.png)
 
-## Table of Contents
+## Outline (table of contents)
 
 To navigate through your notebook, open the File Explorer in the Activity Bar. Then open the **Outline** tab in the Side Bar.
 
-![Table of contents](images/jupyter/table-of-contents.png)
+![Outline](images/jupyter/table-of-contents.png)
 
 You can use the filter control in the Outline view to include Markdown headers, code cells, and code cell symbols. The filters correspond to the following settings:
 
